@@ -14,7 +14,7 @@ American singer-songwriter
 
 ## Connect with Me
 
-Find me on GitHub: @SPENCERMARCU
+Find me on GitHub: @SpencerMarcu
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
