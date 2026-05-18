@@ -1,13 +1,13 @@
 # Spencer Marcu 🎸
 
-[![GitHub followers](https://img.shields.io/github/followers/spencermarcu-dev?label=Follow&style=social)](https://github.com/spencermarcu-dev)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=spencermarcu-dev&color=blue)](https://github.com/spencermarcu-dev)
+[![GitHub followers](https://img.shields.io/github/followers/Spencer-Marcu?label=Follow&style=social)](https://github.com/Spencer-Marcu)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Spencer-Marcu&color=blue)](https://github.com/Spencer-Marcu)
 
-Welcome to my GitHub profile! I'm Spencer Marcu, a Rock n' Roll Singer, Songwriter, Producer, and Artist creating music that moves souls and builds connections.
+Welcome to my GitHub profile! I'm Spencer Marcu, an American singer-songwriter, Rock n' Roll , Producer, and Artist creating music that moves souls and builds connections.
 
 ## 🎵 About Me American singer-songwriter
 
-I'm Spencer Marcu, a passionate musician dedicated to creating authentic rock and roll music. I believe in the power of music to inspire, connect, and make a difference in people's lives. My work spans songwriting, production, and performance, always striving for artistic excellence and meaningful expression.
+I'm Spencer Marcu, an American singer-songwriter and a passionate musician dedicated to creating authentic rock and roll music. I believe in the power of music to inspire, connect, and make a difference in people's lives. My work spans songwriting, production, and performance, always striving for artistic excellence and meaningful expression.
 
 ### Current Focus:
 - 🎵 Creating authentic rock and roll music
@@ -29,7 +29,7 @@ I'm Spencer Marcu, a passionate musician dedicated to creating authentic rock an
 - **PR**: Cosa Nostra USA
 - **Marketing**: Steve Sherr & Em Benoit, Cloverr Digital
 - **Label**: EAM, LLC
-- **Rights**: SPENCER MARCU SONGS (BMI) via PEN Music Group, Inc.
+- **Rights**: SPENCER MARCU (BMI) via PEN Music Group, Inc.
 
 ## 🎵 Latest Release
 
@@ -44,8 +44,8 @@ Featuring Ray Wise - Available NOW on all platforms!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spencermarcu-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencermarcu-dev&layout=compact&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spencer-Marcu&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-Marcu&layout=compact&theme=default"/>
 </div>
 
 ## 🤝 Connect with Me
@@ -57,7 +57,7 @@ I'm always open to discussing new music projects, collaborations, and performanc
 - 🎧 **SoundCloud**: [spencermarcu](http://soundcloud.com/spencermarcu)
 
 ### 🌐 Social Media:
-- 🐦 **Twitter**: [@_spencermarcu_](https://www.twitter.com/_spencermarcu_)
+- 🐦 **Twitter**: [@spencermarcu](https://www.twitter.com/spencermarcu)
 - 📘 **Facebook**: [SpencerMarcu](https://www.facebook.com/SpencerMarcu)
 - 🌍 **Website**: [spencermarcu.com](https://www.spencermarcu.com)
 
@@ -71,11 +71,11 @@ I'm always open to discussing new music projects, collaborations, and performanc
 
 ## 📈 Activity
 
-[![Spencer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spencermarcu-dev&theme=github)](https://github.com/spencermarcu-dev)
+[![Spencer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spencer-Marcu&theme=github)](https://github.com/Spencer-Marcu)
 
 ---
 
-⭐️ From [Spencer Marcu](https://github.com/spencermarcu-dev) - *Rock n' Roll Singer, Songwriter, Producer, Artist - Creating music that moves souls!*
+⭐️ From [Spencer Marcu](https://github.com/Spencer-Marcu) - *American singer-songwriter, Rock n' Roll, Producer, Artist - Creating music that moves souls!*
 
 ---
-*©2021 SPENCER MARCU SONGS (BMI) administered for the world by PEN Music Group, Inc. All Rights Reserved*
+*©2021 SPENCER MARCU (BMI) administered for the world by PEN Music Group, Inc. All Rights Reserved*
