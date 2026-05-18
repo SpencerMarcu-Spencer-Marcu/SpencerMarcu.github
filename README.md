@@ -1,4 +1,3 @@
-[Readme.md](https://github.com/spencermarcu-spencer-marcu/SpencerMarcu-1)
 # Spencer Marcu 🎸
 
 [![GitHub followers](https://img.shields.io/github/followers/spencermarcu-dev?label=Follow&style=social)](https://github.com/spencermarcu-dev)
